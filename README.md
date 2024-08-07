@@ -9,10 +9,12 @@ Cancer presents humans with an ongoing challenge in medical diagnosis and treatm
 
 # Results:
 
-- Confusion Matrix
+Confusion Matrix
+
 ![Confusion Matrix](https://github.com/user-attachments/assets/9d8f879d-1a97-4d41-8329-563b714cf3b5)
 
-- Classification Report
+Classification Report
+
 ![Classification Report](https://github.com/user-attachments/assets/a6dfbca3-f563-41ef-8319-6837628f8220)
 
 
