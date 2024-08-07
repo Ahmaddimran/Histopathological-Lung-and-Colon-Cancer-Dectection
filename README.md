@@ -2,17 +2,17 @@
 Cancer presents humans with an ongoing challenge in medical diagnosis and treatment. Histopathological analysis, the examination of tissue samples under a microscope, is a critical tool in detecting and diagnosing cancers, including lung and colon cancer. This repository aims to leverage advanced deep learning techniques to improve the accuracy and efficiency of histopathological image analysis.
 
 # Project Overview
--**Dataset**: Utilized LC25000 dataset consisting of high quality microscopic images of Lung and Colon Cells.
--**Model Architectures**: Utilized and fine-tuned Xception and EfficientNetB5 for optimal results.
--**Results**: Achieved beyond human classification of cells with 99.7% generalization error using Xception Net
--**Pipeline**: Designed a pipeline for future inference
+- **Dataset**: Utilized LC25000 dataset consisting of high-quality microscopic images of Lung and Colon Cells.
+- **Model Architectures**: Utilized and fine-tuned Xception and EfficientNetB5 for optimal results.
+- **Results**: Achieved beyond human classification of cells with 99.7% generalization error using Xception Net
+- **Pipeline**: Designed a pipeline for future inference
 
 # Results:
 
--Confusion Matrix
+- Confusion Matrix
 ![Confusion Matrix](https://github.com/user-attachments/assets/9d8f879d-1a97-4d41-8329-563b714cf3b5)
 
--Classification Report
+- Classification Report
 ![Classification Report](https://github.com/user-attachments/assets/a6dfbca3-f563-41ef-8319-6837628f8220)
 
 
