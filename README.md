@@ -34,3 +34,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 # Acknowledgements
 Borkowski AA, Bui MM, Thomas LB, Wilson CP, DeLand LA, Mastorides SM. Lung and Colon Cancer Histopathological Image Dataset (LC25000). arXiv:1912.12142v1 [eess.IV], 2019
 https://arxiv.org/abs/1912.12142v1
+
+# Model's Weight
+[HF Repo](https://huggingface.co/ahmEdimrann/Histopathological-Lung-and-Colon-Cancer-Dectection/tree/main)
