@@ -4,7 +4,7 @@ Cancer presents humans with an ongoing challenge in medical diagnosis and treatm
 # Project Overview
 - **Dataset**: Utilized LC25000 dataset consisting of high-quality microscopic images of Lung and Colon Cells.
 - **Model Architectures**: Utilized and fine-tuned Xception and EfficientNetB5 for optimal results.
-- **Results**: Achieved beyond human classification of cells with 99.7% generalization error using Xception Net
+- **Results**: Achieved beyond human classification of cells with 99.7% generalized accuracy using Xception Net
 - **Pipeline**: Designed a pipeline for future inference
 
 # Results:
